@@ -1,4 +1,4 @@
-# Calculadora Estatística
+## Calculadora Estatística
 Projeto de uma calculadora para análise de dados com plotagem de gráficos.
 
 <p align="center">
